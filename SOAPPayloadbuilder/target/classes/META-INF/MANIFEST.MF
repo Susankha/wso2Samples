@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-Description: SOAPPayloadbuilder
+Bundle-SymbolicName: SOAPPayloadbuilder
+Built-By: susankha
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1505449028316
+Import-Package: org.codehaus.jettison.json;version="[0.0.0,2.0.0)"
+DynamicImport-Package: *
+Tool: Bnd-1.15.0
+Export-Package: org.wso2.sample;uses:="org.codehaus.jettison.json"
+Bundle-Name: SOAPPayloadbuilder
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_121
+
